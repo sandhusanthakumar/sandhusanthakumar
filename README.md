@@ -2,4 +2,4 @@
 
 I design distributed, cloud-native systems for enterprise products, most recently a data-as-a-service platform of 60+ microservices, and the review practices that keep them easy to change as teams grow.
 
-**[Walk the road, 2012 to now → sandhu.sh](https://sandhu.sh)**
+**[Walk the road → sandhu.sh](https://sandhu.sh)**
